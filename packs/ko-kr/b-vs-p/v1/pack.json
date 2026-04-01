@@ -1,0 +1,50 @@
+{
+  "packId": "ko-kr-b-vs-p-core-v1",
+  "clinicId": "ko-kr-b-vs-p-en-us",
+  "lang": "ko-KR",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "발 —— 팔"
+    },
+    {
+      "lineId": "L2",
+      "text": "불 —— 풀"
+    },
+    {
+      "lineId": "L3",
+      "text": "배 —— 패"
+    },
+    {
+      "lineId": "L4",
+      "text": "팔이 아파요."
+    },
+    {
+      "lineId": "L5",
+      "text": "불을 꺼요."
+    }
+  ]
+}

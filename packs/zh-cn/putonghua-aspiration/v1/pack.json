@@ -1,0 +1,50 @@
+{
+  "packId": "zh-cn-putonghua-aspiration-core-v1",
+  "clinicId": "zh-cn-putonghua-aspiration-en-us",
+  "lang": "zh-CN",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "zh-CN"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "zh-CN"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "八 —— 趴"
+    },
+    {
+      "lineId": "L2",
+      "text": "都 —— 偷"
+    },
+    {
+      "lineId": "L3",
+      "text": "高 —— 考"
+    },
+    {
+      "lineId": "L4",
+      "text": "怕不怕？"
+    },
+    {
+      "lineId": "L5",
+      "text": "他偷桃。"
+    }
+  ]
+}

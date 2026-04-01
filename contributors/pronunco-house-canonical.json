@@ -1,0 +1,8 @@
+{
+  "contributorId": "pronunco-house-canonical",
+  "displayName": "PronunCo Canonical Voices",
+  "role": "native_speaker",
+  "publicCreditAllowed": true,
+  "bioLine": "House canonical voices used for cloud-rendered clinic audio until human contributors override specific lines.",
+  "contactUrl": "https://pronunco.com"
+}

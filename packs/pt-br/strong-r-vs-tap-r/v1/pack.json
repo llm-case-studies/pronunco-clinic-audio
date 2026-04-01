@@ -1,0 +1,50 @@
+{
+  "packId": "pt-br-strong-r-vs-tap-r-core-v1",
+  "clinicId": "pt-br-strong-r-vs-tap-r-en-us",
+  "lang": "pt-BR",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "pt-BR"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "pt-BR"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "caro —— carro"
+    },
+    {
+      "lineId": "L2",
+      "text": "era —— erra"
+    },
+    {
+      "lineId": "L3",
+      "text": "coro —— corro"
+    },
+    {
+      "lineId": "L4",
+      "text": "O carro é caro."
+    },
+    {
+      "lineId": "L5",
+      "text": "Rita corre rápido."
+    }
+  ]
+}

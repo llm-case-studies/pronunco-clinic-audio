@@ -1,0 +1,17 @@
+[
+  {
+    "packId": "pt-br-strong-r-vs-tap-r-core-v1",
+    "path": "packs/pt-br/strong-r-vs-tap-r/v1/pack.json",
+    "lang": "pt-BR"
+  },
+  {
+    "packId": "zh-cn-putonghua-aspiration-core-v1",
+    "path": "packs/zh-cn/putonghua-aspiration/v1/pack.json",
+    "lang": "zh-CN"
+  },
+  {
+    "packId": "ko-kr-b-vs-p-core-v1",
+    "path": "packs/ko-kr/b-vs-p/v1/pack.json",
+    "lang": "ko-KR"
+  }
+]
