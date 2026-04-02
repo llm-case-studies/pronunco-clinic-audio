@@ -48,5 +48,189 @@
       "lineId": "L5",
       "text": "Rita corre rápido."
     }
+  ],
+  "generatedAt": "2026-04-02T15:42:35.231Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11520,
+      "sha256": "8933cdcaf24f582862162bec9d0843d1174f9f01c340d20437d783bd4f7c78bc"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10800,
+      "sha256": "c8d2e89b58b1d838956d9e2a44fd64b3ee79ee5e06176c60458ce36457ec80bd"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "89c579f349af77abf4f9181d490e06afd27d88da4f6dd9e9e68ac6764b820e81"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "def7dd1ae1ae47a4b0820f8b25d076b6ceb5e4b76839732b810b93aa01be11de"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13680,
+      "sha256": "9ec554e6a70f72ac534c47139c786851d2a26989df5023e76c6296cc6ecc8bd7"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13968,
+      "sha256": "9a5579fcc928bce72ebec019a3ba89779ae701dbd6eb0ce843d03e3266417d82"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13104,
+      "sha256": "d8be0e48599bb10a27fb8cadac11dea4f5effc5d923d677a6e06260f45ec3340"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13824,
+      "sha256": "fd037b4b26fe6fde81f1b8559b50bfe2f41570ba14fe1cdd4938560b6f2b84d8"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15408,
+      "sha256": "a33b8dc156ef145a5a7bda40657e40b23870f65e5ee21237f3d03dba31cf0b45"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16560,
+      "sha256": "0111e8e96b464dd9a412d962a4c4924688e2a9fd4557908f5b566436231d7128"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11664,
+      "sha256": "b57cfb4aecec013d16d1af69419ca14c8791fb65e442ac84d2ce523389d67931"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10944,
+      "sha256": "4dfa163a715fc138fbce3cfdcc838aa7252ea754733ae8f07844b080377426eb"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11520,
+      "sha256": "7914dbb361ab20e3a693a055f8880021a0d3cf0659fcce9012db5388568bfd4e"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12816,
+      "sha256": "387f3c74aa13bd03c2119b6b722c55805c9cb9e2f74539ab8811997462c41527"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14256,
+      "sha256": "aa576085ca3e71065e90235f8a47b2d83e4de85394581654156d3a6d3e6a940f"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "fdd8d8b9e2187071d6d7170a07d1d145b1e3cc264e514d537c89fc518073964a"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13248,
+      "sha256": "344b165eb07ac7a635bdf49e515b29c5a7e5320d6a3faf465697dd38e332b8d7"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13968,
+      "sha256": "e688d7f195f9701845327246ac5597a5a715fcde6c569922a144364ee142c6f6"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15696,
+      "sha256": "836e5103ce2e1501c51c6c8a0998eb18d94347cecf9015ad18dfb2c3a9d9e859"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/pt-BR/pt-br-strong-r-vs-tap-r-core-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 17280,
+      "sha256": "86ac0c0d31375c1ba93ca0b8368d78bc1266cd051d35d1bfc9d6edd4173a7dc2"
+    }
   ]
 }

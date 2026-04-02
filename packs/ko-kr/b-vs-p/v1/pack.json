@@ -48,5 +48,189 @@
       "lineId": "L5",
       "text": "불을 꺼요."
     }
+  ],
+  "generatedAt": "2026-04-02T15:43:09.343Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10656,
+      "sha256": "eb27326eb4739d770e8b96eb82eb4cab9e74e6b83bae33e999023e6d06b47aeb"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10944,
+      "sha256": "83cf9f0650bf4e6e5b15dceade741da4a27d94bda13820092daf4d4e486d6409"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10368,
+      "sha256": "56409e9556406aa8dbacf05b42fbdd99c918a9654bfa176d6b42d032c0a9cfb5"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11664,
+      "sha256": "96089c9e07540f587a7ef22132e4b5eed0c7ecf5f5a8588666515ca09a705c13"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10944,
+      "sha256": "14288b457c0f93f9df489eeeeca1746eb703545bc53dfbdd3185a43e67827bba"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12960,
+      "sha256": "3892269faacaad0c8f4b2ff66cb94eadd0baa2aa254d5c573a088d19a6812e20"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13248,
+      "sha256": "f8ad5e61b2f99595c32bcbb14343a105fca0764a24190ce880816d26500670ad"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12528,
+      "sha256": "cbf3b2b03c7f0ec2922f087f352d509549741349ddbfc99684644f56dcff0030"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "9504d772f7450419f92b2afff5e6922b5a3a562f5397bfcab6b1467bab80fb37"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13248,
+      "sha256": "b0b9eee6e111e0d794978477e03f733463301f14e4270759a68b6ef70e4609b4"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "9a755a7bb3eda70811fb53f3c1e5bc31f18a82edda2841a54a1e9a70b50abffc"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11952,
+      "sha256": "67461543b91e2c2d9af9bb64fa76a3c8e7086a89db20bd069c4d2dfaa375fb9c"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "9d1b7f9dc2a4baa37c0a4073271f18a80c2c441105cc2221e73594a48a7ac6ff"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13968,
+      "sha256": "a58370c6c45748b3b94bda5fb1fe6894c6c6cc96b8355e4ac4e2fdb8691292bf"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "b79d123393e9e1d9b71677543814442bc0c10a7dc2189ed0a4f42f2d44de1f1c"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15408,
+      "sha256": "7618373216a5767ecf28d2100de663f1c329879ad8a7b14e04ed18a9468101b1"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14544,
+      "sha256": "b8d30bbb81982612e417a52e39da9438bc757418ea5bd55926719ffadb8dcdaa"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15408,
+      "sha256": "14e5044b3c7dbdee544f888a8c3ad438059ee56e1672c982afa215c0989f9d36"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16848,
+      "sha256": "90364bd46517744e6fcae18cc6a0b2a6ecd0ba24156fa77e06c566f48f70cd6e"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-b-vs-p-core-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 17136,
+      "sha256": "9283aae0ea2ea80902f555c1722a838095ec1b8d6de6c93bc48bf9eea310bfe0"
+    }
   ]
 }

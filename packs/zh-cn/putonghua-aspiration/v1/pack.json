@@ -48,5 +48,189 @@
       "lineId": "L5",
       "text": "他偷桃。"
     }
+  ],
+  "generatedAt": "2026-04-02T15:42:53.237Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 9504,
+      "sha256": "e3ce3aa5d51fa6bc2860b8fbca08a98dbf57f77629933abbf95b4a15cb84a402"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 9360,
+      "sha256": "3d2dd41797e1afe90220f1976a05712fc8823ec72dbd5a6b0154bc1388a7e139"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 9504,
+      "sha256": "fd8f2e270cfabd86a2f2b3c4f8d3d206ac6d74455f49acbef30aa9d4a8d1c0e9"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 8352,
+      "sha256": "cdc2aeaa8521ca4140dc97d5d0001fc94145f285c0e6ec70e11cf1d980dadf05"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 8496,
+      "sha256": "3ae5bf3d19e7d844730708ef4765035c1017143b979ee3fa191c3c5c46be4840"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "22be4b34dc378165d9e1175766c7bb1ca9ab786a1f848b54b2d744af63677727"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "7bf4574c92c3a7d8046de7a9318a0f89c5fe2828c5f4623c25ecdcb7f214d65e"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "2aabef1479849ca14bbe3b596fb8e0bfb81b2b9e49027a5c2c919e8db4f046bd"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10080,
+      "sha256": "64e1fae4e1c84b886678ea1f9214cb1b194b13357c8c6fb4ca5728c599c74585"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10224,
+      "sha256": "cc3766d12d1ce6c5db4e2db985311b8db53921f2ec1b0b00590a2b1ef22f3d81"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11952,
+      "sha256": "7a8ca1c882cae9c9acc20ceef43634d47971f9c98deacd15a6c6c2be11a667ba"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11664,
+      "sha256": "2d2b546b628e090a1feeac563869de5e7f14b5189a73df9bfb843988afd13d62"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "fc1bfb0f485d102373055555362aa4a26c64f87d117cdbfd7026fe470709b065"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10368,
+      "sha256": "200474cd99506bfb628ee3c9ec6078557137bd999abd1744b16361ac4695fa66"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10512,
+      "sha256": "16d356421f029418ad6be68170e16b1402579bfd0fd84e1870ef568b4d89bc3c"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14544,
+      "sha256": "415d58ab30c03292cad63fbe8d20b12578cd9a48048be00f3d49968ab3a5bac9"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "e7cb4016a52fdcd664e452cdd5afa430f90e94f939bcf155652490feb379cb5d"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13824,
+      "sha256": "17950f30c169cfcd91e52873d9b18ae9ff19f723b38db35de0bc52b651244452"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "91465211f4dded941a99b5872203edc2d7756c0da7cce36898e94447f2d524d3"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/zh-CN/zh-cn-putonghua-aspiration-core-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "e7ef860615efa19892dd3df75618b120aeb84fa1cd5741633c7c2cd2286a1795"
+    }
   ]
 }
