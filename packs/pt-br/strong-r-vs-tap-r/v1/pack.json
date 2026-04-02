@@ -14,14 +14,16 @@
       "label": "Canonical female",
       "sourceKind": "cloud_tts",
       "provider": "azure-speech",
-      "lang": "pt-BR"
+      "lang": "pt-BR",
+      "providerVoiceId": "pt-BR-ElzaNeural"
     },
     {
       "id": "canonical-male",
       "label": "Canonical male",
       "sourceKind": "cloud_tts",
       "provider": "azure-speech",
-      "lang": "pt-BR"
+      "lang": "pt-BR",
+      "providerVoiceId": "pt-BR-FabioNeural"
     }
   ],
   "preferredVoiceId": "canonical-female",

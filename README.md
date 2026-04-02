@@ -17,3 +17,4 @@ Runtime audio binaries should ultimately live in object storage or CDN, not GitH
 - PT-BR Strong R vs Tap r
 - Putonghua Aspiration Contrast
 - Korean ㅂ/ㅍ Contrast
+- German u vs ü Contrast

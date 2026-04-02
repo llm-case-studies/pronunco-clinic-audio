@@ -1,7 +1,7 @@
 {
-  "packId": "zh-cn-putonghua-aspiration-core-v1",
-  "clinicId": "zh-cn-putonghua-aspiration-en-us",
-  "lang": "zh-CN",
+  "packId": "de-de-u-vs-ue-core-v1",
+  "clinicId": "de-de-u-vs-ue-ru-uk",
+  "lang": "de-DE",
   "deliveryMode": "cloud-canonical",
   "cachePolicy": "offline-eligible",
   "variants": [
@@ -14,39 +14,39 @@
       "label": "Canonical female",
       "sourceKind": "cloud_tts",
       "provider": "azure-speech",
-      "lang": "zh-CN",
-      "providerVoiceId": "zh-CN-XiaoxiaoNeural"
+      "providerVoiceId": "de-DE-KatjaNeural",
+      "lang": "de-DE"
     },
     {
       "id": "canonical-male",
       "label": "Canonical male",
       "sourceKind": "cloud_tts",
       "provider": "azure-speech",
-      "lang": "zh-CN",
-      "providerVoiceId": "zh-CN-YunxiNeural"
+      "providerVoiceId": "de-DE-ConradNeural",
+      "lang": "de-DE"
     }
   ],
   "preferredVoiceId": "canonical-female",
   "lines": [
     {
       "lineId": "L1",
-      "text": "八 —— 趴"
+      "text": "schon —— schön"
     },
     {
       "lineId": "L2",
-      "text": "都 —— 偷"
+      "text": "wurde —— würde"
     },
     {
       "lineId": "L3",
-      "text": "高 —— 考"
+      "text": "musste —— müsste"
     },
     {
       "lineId": "L4",
-      "text": "怕不怕？"
+      "text": "Schön, dass du da bist."
     },
     {
       "lineId": "L5",
-      "text": "他偷桃。"
+      "text": "Würde ich sofort machen."
     }
   ]
 }

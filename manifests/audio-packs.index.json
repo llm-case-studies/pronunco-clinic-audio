@@ -13,5 +13,10 @@
     "packId": "ko-kr-b-vs-p-core-v1",
     "path": "packs/ko-kr/b-vs-p/v1/pack.json",
     "lang": "ko-KR"
+  },
+  {
+    "packId": "de-de-u-vs-ue-core-v1",
+    "path": "packs/de-de/u-vs-ue/v1/pack.json",
+    "lang": "de-DE"
   }
 ]
