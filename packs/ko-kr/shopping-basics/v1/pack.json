@@ -1,0 +1,356 @@
+{
+  "packId": "ko-kr-shopping-basics-v1",
+  "clinicId": "ko-kr-shopping-basics-en-us",
+  "lang": "ko-KR",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-SunHiNeural"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-InJoonNeural"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "이거 있어요?"
+    },
+    {
+      "lineId": "L2",
+      "text": "이거 얼마예요?"
+    },
+    {
+      "lineId": "L3",
+      "text": "이거 사이즈 있어요?"
+    },
+    {
+      "lineId": "L4",
+      "text": "다른 색상 있어요?"
+    },
+    {
+      "lineId": "L5",
+      "text": "카드 돼요?"
+    },
+    {
+      "lineId": "L6",
+      "text": "현금 있어요."
+    },
+    {
+      "lineId": "L7",
+      "text": "좋아요."
+    },
+    {
+      "lineId": "L8",
+      "text": "이거 살게요."
+    }
+  ],
+  "generatedAt": "2026-04-02T18:20:03.166Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "a0f21a213b416fa149bd8ae30a4e62cf18cc63c0614f068efa7b1c0f44c45156"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12384,
+      "sha256": "47d78dc3a1b19f1f965845a854b24e6f61c654fd571b75164c9d6672ceae76ca"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "fbab328b7dc37ed9f8c69770baba3854ab1c9fbead413cd1363f0f169744b291"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13968,
+      "sha256": "0cabda92c2dddbe76344d3167f811b5c2e7f7ee21cc6d01e3541939581769c24"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10512,
+      "sha256": "9c02736eae58d9af514dc34346de93cfe226dd061d1f7fd0b6cf0a7c4673ab07"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12384,
+      "sha256": "511802c677c24e7fcd5b5a8c299e2a87779abe39e53772d8b94ddff324e591ca"
+    },
+    {
+      "lineId": "L7",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L7.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 10080,
+      "sha256": "14c324583d465133a533e4420bfcb5c909238e409c834c1b9bb80f69fd73deca"
+    },
+    {
+      "lineId": "L8",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/normal/L8.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11664,
+      "sha256": "3dee8a0a0d0eb6231d64d236b404f5248862f7d845035d36f3b87328010720b5"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13680,
+      "sha256": "83e8188742d56f6348175754e676f4ea1122b93fdfcedd93befcbc86a9c2f15c"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15120,
+      "sha256": "42fcf29a179da9f2dc9e77c3ac896af3fd6c6ef6e3c165a145b2b634b46b85c5"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 17136,
+      "sha256": "f7b58cc65d22e519e78780e7cd176756f96a108a0d25f0e35db58de85ed19392"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16992,
+      "sha256": "3b92b517f401a68fda1c1c650c88868f14cb5d43066e29c0d26e07e1196c7657"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12672,
+      "sha256": "2293c59b7a3b14f68e61f06bcfef0a0fd5f586c3ad09c1fabb3dd635a7118404"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15120,
+      "sha256": "1d6db14c8c0271de7b503eac2238ba29905203364c7729135d83690330eb2764"
+    },
+    {
+      "lineId": "L7",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L7.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12240,
+      "sha256": "b7946d9bcccac3a0aa8758827593ed4679fbcf62fefb325bbe5dc42e07c4f094"
+    },
+    {
+      "lineId": "L8",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-female/slow/L8.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "18155af260c2ead8a1d786398e1db199360db60de04ff208ac3b1792953909a7"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11664,
+      "sha256": "0a20622fb0684472e4bea04c92db7d62ba649a1070cb8bec8ec9d4572d6f8484"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12384,
+      "sha256": "8925b158b4f36bc024a64e778f2d3396909a3bdc5a3bc3e5c2c727daaff0cd8a"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13824,
+      "sha256": "0abda70b4160c5db66afe96ca624e3ef700e3e17a1474ccc922bd3e3fb1a9997"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13536,
+      "sha256": "1190f212920f0141ebd91da488e9fdb4f1d656b6509a9a39fc5271b454f04530"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 9936,
+      "sha256": "361aa752e00428d2bc2b892a50f146e99c1adb6ea167ba662f7420e1d1168ae9"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13824,
+      "sha256": "b62b930e709a4a2198ed676b4bc8584626877f66d3c6fc43a7b50e7adf5fa194"
+    },
+    {
+      "lineId": "L7",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L7.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 12816,
+      "sha256": "d8d693be13697cc49dc2e0fd24a5d724efbc81cbcd835e689fe4ba2b3c8784bf"
+    },
+    {
+      "lineId": "L8",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/normal/L8.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13824,
+      "sha256": "bcfc51d7c2b99d81a158e589f4eaf0b4e3253b42be931fb93f4dfe569c5b7ee2"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14112,
+      "sha256": "a6e048bea794029182982f12fcddf83f265357a909f124257a80418b2baf3454"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14976,
+      "sha256": "adf80475aa1013fe5dde53697f5263e2d660ec963c726e62c685d6e894a725e1"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16848,
+      "sha256": "5f5c5e1f3b1e3b33d4bafede7c7eef0c9948094012625a7e0ee26afcd7112d77"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16416,
+      "sha256": "cc195ee552a0d2485a77d3c9ea21d9fe479fa4b9c2499a0098487ce0d3cf2f6f"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11952,
+      "sha256": "8bfcd83b83f2574c6639ea8df387b49c1aaa48c3d601455b685553b70018b8af"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16848,
+      "sha256": "7cd5014f0416e0fa243891b306ea56866c459c96972fc5a9dad6f18f1507a92e"
+    },
+    {
+      "lineId": "L7",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L7.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15552,
+      "sha256": "6b28d5b2e5e5418495003724fb5a51936465fa6f024f533026ff7ecdfaf8aa1b"
+    },
+    {
+      "lineId": "L8",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-shopping-basics-v1/canonical-male/slow/L8.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16704,
+      "sha256": "c5f34efa4f3a9d308e236524b4fe66db8b0fe530860b830329fbc47a6cb587fe"
+    }
+  ]
+}

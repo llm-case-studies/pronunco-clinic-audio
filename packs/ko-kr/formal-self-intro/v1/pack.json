@@ -1,0 +1,276 @@
+{
+  "packId": "ko-kr-formal-self-intro-v1",
+  "clinicId": "ko-kr-formal-self-intro-en-us",
+  "lang": "ko-KR",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-SunHiNeural"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-InJoonNeural"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "안녕하세요."
+    },
+    {
+      "lineId": "L2",
+      "text": "만나서 반갑습니다."
+    },
+    {
+      "lineId": "L3",
+      "text": "제 이름은 알렉스입니다."
+    },
+    {
+      "lineId": "L4",
+      "text": "저는 미국에서 왔습니다."
+    },
+    {
+      "lineId": "L5",
+      "text": "저는 한국어를 배우고 싶습니다."
+    },
+    {
+      "lineId": "L6",
+      "text": "저는 여행하는 것을 좋아합니다."
+    }
+  ],
+  "generatedAt": "2026-04-02T18:20:13.303Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 11376,
+      "sha256": "103e1410890835373ee819f6e396181e1852a5f513eecbdecdec6b860b23a911"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 14832,
+      "sha256": "ac76d4527b2394ffd80c28bfa9cdbd571de7d9b77b5cd4cf72e4ed8efb3c33bd"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16416,
+      "sha256": "0b3fccca6b687876c23cc8f1470e29d1289b53988a608a984e31a6972be50ecf"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16416,
+      "sha256": "375d5b22656d55af46a556e27b4bdf821e10e742a902184abd0c038729d29538"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18576,
+      "sha256": "661340c3f878fa3c039c65b1f305c068cdf1b18a240f72a2f6587c8cbdb96958"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18576,
+      "sha256": "5f4a94843b47143c29337e6f252228d809186b6d5ebf41fbde7e303225fc62ad"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13680,
+      "sha256": "7cbdfb71d6d6c8704a7afe3acb498e0400336f35f43b5b2e8e7eed736b5fd2a6"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18000,
+      "sha256": "b7cf50d90c0668332a77eaa55d124c42a59f0fa10f737518f596dc6360ae0be9"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 19872,
+      "sha256": "9139bbc00f5c10bc7b7407e5dadfc46ec474596166f457fe463855e00761fbe3"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 20016,
+      "sha256": "ac6f02db31a7461f214fe782d65b74d305dfd848690c78a891d6619151c780ed"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22608,
+      "sha256": "fda8f447d0b1642d88da9dd2abaabb372245a12adc25cb1177c478488f278b3d"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-female/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22608,
+      "sha256": "fffda99e10c545c3eeb5645b1517771677b0b5804ea489430a2a53d50997b865"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 13392,
+      "sha256": "7a49625ec254bc06f2c4973f191558552758679bc76aa9e2ee887acfee667710"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 17424,
+      "sha256": "e39b131dbe5c825e2a698abe04ccf82a8e2d60a815f8214c1c1a5b02490d6672"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 19296,
+      "sha256": "fd3e12ce563c68795ef8cd7abe2152c9f8cbd5ad947d077dee272c3f0028d5da"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18864,
+      "sha256": "5914f59b23cd34bec4d668cd4a1a98768058833500a58c960810fbcafdf85602"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 20736,
+      "sha256": "249bac221fac13006a1f2afcf295eb230432fed3538c88c0cca2e9b123a17a6c"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 20736,
+      "sha256": "521443e82d16f4680f43585cf85ecbb159ee9d6c56e45fb53b2de311edc1b707"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16272,
+      "sha256": "56c05ae80fe3c91c5ba5cb321dfeeddbc72f1b6116ee45adcc7425e711ff3c65"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 21168,
+      "sha256": "b4f8d8e3bb2bc1d75d53a02c1301d32c5c0eac929dc3819f6b60028d59c8052a"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 23472,
+      "sha256": "7c28dc7b53013b08f4b8d1daf46846f034a4c7ab1f7d49675ec731cc955f8f59"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22896,
+      "sha256": "06aa6772bc12423a8024101ca9bfbb6b297a7867b9754ab895f2e8ef902186af"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 25200,
+      "sha256": "5ad8b3055c455d441727000b1096413f6f4f15b65ba75c7f6f8b38f4bbaeadd9"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-formal-self-intro-v1/canonical-male/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 25200,
+      "sha256": "b2e6543412bee05bdc01e7f02c730b08cdd00e7dc2cfbea58b82913369203b12"
+    }
+  ]
+}
