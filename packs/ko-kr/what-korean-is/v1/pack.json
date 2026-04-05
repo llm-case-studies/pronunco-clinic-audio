@@ -1,0 +1,276 @@
+{
+  "packId": "ko-kr-what-korean-is-v1",
+  "clinicId": "ko-kr-what-korean-is-en-us",
+  "lang": "ko-KR",
+  "deliveryMode": "cloud-canonical",
+  "cachePolicy": "offline-eligible",
+  "variants": [
+    "normal",
+    "slow"
+  ],
+  "voices": [
+    {
+      "id": "canonical-female",
+      "label": "Canonical female",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-SunHiNeural"
+    },
+    {
+      "id": "canonical-male",
+      "label": "Canonical male",
+      "sourceKind": "cloud_tts",
+      "provider": "azure-speech",
+      "lang": "ko-KR",
+      "providerVoiceId": "ko-KR-InJoonNeural"
+    }
+  ],
+  "preferredVoiceId": "canonical-female",
+  "lines": [
+    {
+      "lineId": "L1",
+      "text": "한국어는 한글을 써요."
+    },
+    {
+      "lineId": "L2",
+      "text": "한글은 소리글자예요."
+    },
+    {
+      "lineId": "L3",
+      "text": "글자는 음절 블록으로 보여요."
+    },
+    {
+      "lineId": "L4",
+      "text": "안녕하세요는 안전한 첫인사예요."
+    },
+    {
+      "lineId": "L5",
+      "text": "요로 끝나면 공손하게 들려요."
+    },
+    {
+      "lineId": "L6",
+      "text": "존댓말부터 배우면 안전해요."
+    }
+  ],
+  "generatedAt": "2026-04-05T18:21:34.731Z",
+  "outputFormat": "audio-24khz-48kbitrate-mono-mp3",
+  "clips": [
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15840,
+      "sha256": "7f79b30718336e86fae79965ce5768cf1a612f87b51ecc4db328adc0ce8e05b8"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 15120,
+      "sha256": "c262314d312cb997b704b2ea11ae29bb06673c6cb1e9c61226f70b9040b15905"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18144,
+      "sha256": "82c8cde0ecfc7229167b5e07fc2d06ad4eccb81614f624d0aa1753635ba77aaf"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 21312,
+      "sha256": "9938400260b4499f90ffa91efb58fd000c7855370b71b0fc6c4a2b61d3da79ac"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18576,
+      "sha256": "3c9d694532a527a328d760d118d20503759e7cc736687c3333425ac34cffc3a4"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18864,
+      "sha256": "674d50f1ac6aa22c0dda51d71ffd7489654ac5b5a03473451931210cefec129f"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 19296,
+      "sha256": "6459db914c304e9e0a5a37920981a3be6495f8af2e54c794622e437c9b32d10d"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 18288,
+      "sha256": "408db62adc05da548f0d979ef9537af025ea986cfc5a9246e645a33422a87769"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22032,
+      "sha256": "d6efe34b604edab1d7377d25ff86877900c2991ab86ce2472ac589beef682dcc"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 25920,
+      "sha256": "ce0295343dcb52540862d54c51ce4bfae4f346660244a89812230877654905bb"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22608,
+      "sha256": "110910fe5b7d0a2cf00c45c980d515413098fb639696d5e9c319cf27b4cc85bf"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-female",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-female/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22896,
+      "sha256": "e54750c594ffe0b06cb0ed01b9a9be12304fed3b9c2482fe3e7b0a786a2643c1"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 17568,
+      "sha256": "5670ebc40453a85b6026905b886d738a8563d545bae1b705586e69ecbc169fc4"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 16848,
+      "sha256": "71ef3bedad7ac083005f29873902d247cc5f676ebbb50583c8cf0e3e4e55302e"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 20880,
+      "sha256": "31c8ce0b4d6152ff1d229a3b8aba78a525bc463cbf725e5614433b621697511c"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 22608,
+      "sha256": "967dacca4c7ca7fd2a070d2142d04ca797750bab167cd9755e4016617c5abef5"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 19872,
+      "sha256": "4f3960f621b413882c111c5050f2ac8f086dcd8b50aab5d6e04576a0fa7f16da"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "normal",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/normal/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 21456,
+      "sha256": "37070842404399f9629946a12a4469263425f0cb2f82cef0984d988d9a240a0e"
+    },
+    {
+      "lineId": "L1",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L1.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 21312,
+      "sha256": "8e6968113e064cce4c270719702fe27b74d9b2e117d2168a0ba5866ac6f26cc3"
+    },
+    {
+      "lineId": "L2",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L2.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 20448,
+      "sha256": "0af9f51cce29646504182524d42a05d4b8ecd417bb18dcf69866d7ac7f777746"
+    },
+    {
+      "lineId": "L3",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L3.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 25488,
+      "sha256": "0c666052be62b7ea58029dcb57f00ff07881bd57e4bd2b071bf1c7d80cedd1c6"
+    },
+    {
+      "lineId": "L4",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L4.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 27504,
+      "sha256": "00c360d929d24c816bbff85c547da2bce432a371716c4fdb07079c3efb109ce4"
+    },
+    {
+      "lineId": "L5",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L5.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 24192,
+      "sha256": "fbe9e56cdb978ab7df6b536f7e53eefb999a7414e2b574f7d66dfeaa3118d23f"
+    },
+    {
+      "lineId": "L6",
+      "voiceId": "canonical-male",
+      "variant": "slow",
+      "path": "audio/generated/ko-KR/ko-kr-what-korean-is-v1/canonical-male/slow/L6.mp3",
+      "contentType": "audio/mpeg",
+      "bytes": 26064,
+      "sha256": "21ffe7be5e2d6afb630d47bf5c757a6ff51cc8df75ca4062ab79070d8bae3147"
+    }
+  ]
+}
